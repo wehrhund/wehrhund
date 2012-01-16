@@ -1,11 +1,51 @@
-body
-{
-background-color:#7a8a80;
+.mask{
+   min-height:100%;
+   position: relative;
+   overflow: hidden;
+   margin: 0px auto;
+   width: 100%;
 }
-h1
-{
-font-family:Verdana,Helvetica,sans-serif;
-text-align:center;
-color:#6D7A72;
-font-size:100pt;
+.header{
+   text-align:center;
+   height: 100px;
+   float: left;
+   width: 100%;
+   background-color: #3D4640;
+}
+.colleft{
+   position: relative;
+   width: 100%;
+   right: 50%;
+}
+.col1{
+   position: relative;
+   overflow: hidden;
+   float: left;
+   width: 50%;
+   left: 100%;
+   background-color: #4D5D53;
+}
+.col2{
+   position: relative;
+   overflow: hidden;
+   float: left;
+   width: 50%;
+#   left: 1%;
+   background-color: #4D5D53;
+}
+.footer{
+   position:absolute;
+   bottom:0;
+   text-align: right;
+   height:25px;
+   float: left;
+   width: 100%;
+   background-color: #3D4640;
+}
+body {
+   padding: 0px;
+   margin: 0px;
+   font-size: 90%;
+   background-color: #3D4640;
+   padding-bottom:205x;   /* Height of the footer */
 }
