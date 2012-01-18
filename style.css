@@ -10,7 +10,11 @@
    height: 100px;
    float: left;
    width: 100%;
-   background-color: #3D4640;
+   background-color: #9EAEA4;
+   opacity:0.25;
+   filter:alpha(opacity=25); /* For IE8 and earlier */
+   border-bottom:1px solid black;
+
 }
 .colleft{
    position: relative;
@@ -24,6 +28,9 @@
    width: 50%;
    left: 100%;
    background-color: #4D5D53;
+opacity:0.8;
+   filter:alpha(opacity=80); /* For IE8 and earlier */
+
 }
 .col2{
    position: relative;
@@ -32,6 +39,9 @@
    width: 50%;
 #   left: 1%;
    background-color: #4D5D53;
+opacity:0.8;
+   filter:alpha(opacity=80); /* For IE8 and earlier */
+
 }
 .footer{
    position:absolute;
@@ -40,12 +50,16 @@
    height:25px;
    float: left;
    width: 100%;
-   background-color: #3D4640;
+   background-color: #9EAEA4;
+   opacity:0.25;
+   filter:alpha(opacity=25); /* For IE8 and earlier */
+   border-top:1px solid black;
 }
 body {
    padding: 0px;
    margin: 0px;
    font-size: 90%;
    background-color: #3D4640;
+   background-image: url("images/stripe.png");
    padding-bottom:205x;   /* Height of the footer */
 }
