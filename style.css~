@@ -3,7 +3,7 @@ body {
    margin: 0px;
    font-size: 90%;
    background-color: #3D4640;
-   background-image: url("images/background.gif");
+   background-image: url("images/background.png");
 }
 #centerbox {
 text-align:center;
@@ -13,7 +13,6 @@ position:absolute;
 left:50%;
 top:50%;
 margin:-105px 0 0 -300px;
-}
 a {
 opacity:0.4;
 filter:alpha(opacity=40);
@@ -21,4 +20,6 @@ filter:alpha(opacity=40);
 a:hover {
 opacity:1.0;
 filter:alpha(opacity=100);
+}
+
 }
