@@ -2,7 +2,7 @@ body {
    padding: 0px;
    margin: 0px;
    font-size: 90%;
-   background-color: #3D4640;
+   background-color: red;
    background-image: url("images/background.gif");
 }
 #centerbox {
