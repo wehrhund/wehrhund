@@ -1,0 +1,24 @@
+ALKSHDkjASHDkjasHdjasdbody {
+   padding: 0px;
+   margin: 0px;
+   font-size: 90%;
+   background-color: red;
+   background-image: url("images/background.gif");
+}
+#centerbox {
+text-align:center;
+width:600px;
+height:210px;
+position:absolute;
+left:50%;
+top:50%;
+margin:-105px 0 0 -300px;
+}
+a {
+opacity:0.4;
+filter:alpha(opacity=40);
+}
+a:hover {
+opacity:1.0;
+filter:alpha(opacity=100);
+}
