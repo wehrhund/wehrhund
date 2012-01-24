@@ -6,7 +6,7 @@ body {
    background-image: url("images/background.gif");
 }
 #linkbox {
-border-top:1px solid black;
+border-left:1px solid black;
 }
 #centerbox {
 text-align:center;
