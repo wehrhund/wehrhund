@@ -5,6 +5,9 @@ body {
    background-color: red;
    background-image: url("images/background.gif");
 }
+#linkbox {
+text-align:right;
+}
 #centerbox {
 text-align:center;
 width:600px;
