@@ -1,8 +1,9 @@
 <html>
  
- <head>
+ <head lang="en" xml:lang="en">
   <title>wehrhund</title>
   <link rel="stylesheet" type="text/css" href="style.css" />
+  
  </head>
 
  <body>
