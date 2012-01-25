@@ -19,8 +19,6 @@ opacity:0.4;
 filter:alpha(opacity=40);
 }
 a:hover {
-position: relative; 
-top: -5px;
 opacity:1.0;
 filter:alpha(opacity=100);
 }
