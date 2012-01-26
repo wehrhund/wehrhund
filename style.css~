@@ -1,7 +1,6 @@
 body {
    padding: 0px;
    margin: 0px;
-   font-size: 90%;
    background-color: red;
    background-image: url("images/background.gif");
 }
