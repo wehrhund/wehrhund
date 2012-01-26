@@ -6,12 +6,12 @@ body {
 }
 #centerbox {
 text-align:center;
-width:600px;
+width:550px;
 height:175px;
 position:absolute;
 left:50%;
 top:50%;
-margin:-87.5px 0 0 -300px;
+margin:-87.5px 0 0 -275px;
 }
 #socialink {
 opacity:0.4;
