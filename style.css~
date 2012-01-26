@@ -15,7 +15,7 @@ margin:-87.5px 0 0 -275px;
 }
 
 #linkbar	{
-	text-align:right;
+text-align:right;
 		}
 
 #socialink {
