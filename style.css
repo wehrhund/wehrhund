@@ -13,6 +13,11 @@ left:50%;
 top:50%;
 margin:-87.5px 0 0 -275px;
 }
+
+#linkbar	{
+	text-align:right;
+		}
+
 #socialink {
 opacity:0.4;
 filter:alpha(opacity=40);
