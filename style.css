@@ -5,11 +5,6 @@ background-color: red;
 background-image: url("images/background.gif");
 }
 
-#wrapper {
-height: 50%;
-padding-bottom:50px;
-}
-
 #centerbox {
 text-align:center;
 width:550px;
@@ -33,10 +28,4 @@ filter:alpha(opacity=40);
 #socialink:hover {
 opacity:1.0;
 filter:alpha(opacity=100);
-}
-
-#footer {
-height:50px;
-margin-top:-50px;
-clear:both;
 }
