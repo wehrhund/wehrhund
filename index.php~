@@ -20,7 +20,6 @@
  </head>
 
  <body>
-<div id="wrap">
   <div id="centerbox">
    <img src="images/wehrhund.png"><br><br>
    <div id="linkbar">
@@ -30,10 +29,6 @@
    <a href="skype:wehrhund?add" target="_blank"><img id="socialink" src="images/skype.png" border="0" alt="skype"></a>
    </div>
   </div>
-</div>
-<div id="footer">
-pee
-</div>
  </body>
  
 </html>

@@ -3,7 +3,7 @@
  
  <head lang="en" xml:lang="en">
   <title>wehrhund</title>
-  <link rel="stylesheet" type="text/css" href="style.css" />
+  <link rel="stylesheet" type="text/css" href="wehrhund.css" />
   <meta name="Author" content="wehrhund" />
   <meta name="description" lang="en" content="wehrhund"/>
   <meta name="keywords" lang="en" content="wehrhund" />  
