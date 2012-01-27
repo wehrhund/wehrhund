@@ -24,12 +24,12 @@ margin-top: -40px;
 text-align:right;
 }
 
-#socialink {
+#socialink:hover {
 opacity:0.4;
 filter:alpha(opacity=40);
 }
 
-#socialink:hover {
+#socialink {
 opacity:1.0;
 filter:alpha(opacity=100);
 }
