@@ -2,11 +2,7 @@ body {
 padding: 0px;
 margin: 0px;
 background-color: red;
-background: url(images/background.gif) no-repeat center center fixed;
-	-webkit-background-size: cover;
-	-moz-background-size: cover;
-	-o-background-size: cover;
-	background-size: cover;
+background-image: url("images/background.gif");
 }
 
 #centerbox {
