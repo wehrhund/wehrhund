@@ -10,7 +10,6 @@
   <script src="http://platform.twitter.com/anywhere.js?id=46fo4rL1mmg0pq3f0nLw&v=1" type="text/javascript"></script>
   <script type="text/javascript">
    twttr.anywhere(function (T) {
-    T.linkifyUsers();
     T.hovercards();
    });
   </script>
