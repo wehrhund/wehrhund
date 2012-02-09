@@ -11,6 +11,7 @@
   <script type="text/javascript">
    twttr.anywhere(function (T) {
     T.hovercards();
+    T('#follow-twitterapi').followButton("wehrhund");
    });
   </script>
   <script type="text/javascript">
@@ -29,13 +30,9 @@
   <div id="centerbox">
    <img src="images/wehrhund.png"><br><br>
    <div id="linkbar">
-   <a href="http://twitter.com/wehrhund" target="_blank"><img id="socialink" src="images/twitter.png" border="0" alt="twitter"></a>
-   <a href="http://tumblr.wehrhund.com" target="_blank"><img id="socialink" src="images/tumblr.png" border="0" alt="tumblr."></a>
-   <a href="http://picplz.com/user/wehrhund/" target="_blank"><img id="socialink" src="images/picplz.png" border="0" alt="picplz"></a>
-   <a href="skype:wehrhund?add" target="_blank"><img id="socialink" src="images/skype.png" border="0" alt="skype"></a>
+    <span id="follow-twitterapi"></span>
    </div>
   </div>
-  test: @sleejay
  </body>
  
 </html>
