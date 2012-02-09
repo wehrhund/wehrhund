@@ -30,6 +30,7 @@
   <div id="centerbox">
    <img src="images/wehrhund.png"><br><br>
    <div id="linkbar">
+    <span id="follow-twitterapi"></span>
    </div>
   </div>
  </body>
