@@ -10,7 +10,7 @@
   <script src="http://platform.twitter.com/anywhere.js?id=46fo4rL1mmg0pq3f0nLw&v=1" type="text/javascript"></script>
   <script type="text/javascript">
    twttr.anywhere(function (T) {
-    T.linkifyUsers();
+    T.hovercards();
    });
   </script>
   <script type="text/javascript">
@@ -35,6 +35,7 @@
    <a href="skype:wehrhund?add" target="_blank"><img id="socialink" src="images/skype.png" border="0" alt="skype"></a>
    </div>
   </div>
+  test: @sleejay
  </body>
  
 </html>
