@@ -8,11 +8,6 @@
   <meta name="description" lang="en" content="wehrhund"/>
   <meta name="keywords" lang="en" content="wehrhund" />  
   <script type="text/javascript">
-   twttr.anywhere(function (T) {
-    T.linkifyUsers();
-   });
-  </script>
-  <script type="text/javascript">
    var _gaq = _gaq || [];
    _gaq.push(['_setAccount', 'UA-28601269-1']);
    _gaq.push(['_trackPageview']);
