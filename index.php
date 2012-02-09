@@ -11,7 +11,7 @@
   <script type="text/javascript">
    twttr.anywhere(function (T) {
     T.hovercards();
-    T('#follow-twitterapi').followButton("twitterapi");
+    T('#follow-twitterapi').followButton("wehrhund");
    });
   </script>
   <script type="text/javascript">
@@ -30,7 +30,7 @@
   <div id="centerbox">
    <img src="images/wehrhund.png"><br><br>
    <div id="linkbar">
-    <span id="follow-twitterapi"></span>
+    <span id="follow-wehrhund"></span>
    </div>
   </div>
  </body>
