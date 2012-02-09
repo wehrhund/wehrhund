@@ -11,6 +11,7 @@
   <script type="text/javascript">
    twttr.anywhere(function (T) {
     T.linkifyUsers();
+    T.hovercards();
    });
   </script>
   <script type="text/javascript">
