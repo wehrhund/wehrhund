@@ -28,7 +28,7 @@
 
  <body>
   <div id="centerbox">
-   <img src="images/wehrhund.png"><br><br>
+   <a href="http://www.wehrhund.com"><img src="images/wehrhund.png" border="0" alt="wehrhund.com"></a><br><br>
    <div id="linkbar">
     <span id="follow-twitterapi"></span>
    </div>
